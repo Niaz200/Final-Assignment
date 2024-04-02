@@ -1,0 +1,7 @@
+admin@gmail.com
+pass:12345678
+user@gmail.com
+user2@gmail.com
+employer@gmail.com
+employer2@gmail.com
+pass:12345678
